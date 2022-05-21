@@ -1,0 +1,6 @@
+package br.com.feltex.bot.telegram;
+
+public class DadosBot {
+    public static final String BOT_TOKEN = "5155105681:AAEotrQCyhHnWS6W_RvcpR3WiCiP74bvMzI";
+    public static final String BOT_USER_NAME = "@asdasdsdsadsdasddasbot";
+}
